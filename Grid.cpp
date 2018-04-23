@@ -305,7 +305,7 @@ std::vector<Organism*> Grid::getPredator(int r , int c) {
 		}
 	}
 
-	return allPredators;
+	return allPredators; 
 }
 
 /**
